@@ -1,0 +1,4 @@
+Laravel Download: composer create-project laravel/laravel example-app
+
+Project Run: php artisan serve
+
